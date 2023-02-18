@@ -1,5 +1,6 @@
 # Microservice-Email
-    Microservice for sending email, in this project we have a backend for the email client and the microservice for sending. The communication is carried out using Feing     by sending the email when registering a user.
+    Microservice for sending email, in this project we have a backend for the email client and the microservice for sending. 
+    The communication is carried out using Feing by sending the email when registering a user.
     
  <img src='https://github.com/lycan-nt/Microservice-Email/blob/main/feign.jpg'>
 
